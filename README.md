@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Nodejs**
 
-- 📫 How to reach me **anchaljaiswal1341@gmail.com**
+- 📫 How to reach me **anchal8219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
